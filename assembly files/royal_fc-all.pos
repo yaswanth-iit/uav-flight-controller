@@ -1,0 +1,82 @@
+### Module positions - created on 10/28/21 19:49:26 ###
+### Printed by Pcbnew version kicad (5.1.9)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                Package                                            PosX       PosY       Rot  Side
+G***      LOGO               iit_logo_front                                  41.2000  -114.8000  180.0000  bottom
+                                                                             61.2100   -33.8700    0.0000  top
+                                                                            144.9300   -65.8300    0.0000  top
+                                                                             -9.2300  -185.9900   90.0000  top
+                                                                             -9.4400  -178.6900   90.0000  top
+C1        100nF              C_0402_1005Metric                               35.4800  -125.7000   90.0000  top
+C2        4.7uF              C_0603_1608Metric                               37.2300  -138.5500  180.0000  top
+C3        100nF              C_0402_1005Metric                               39.3300  -138.7500  270.0000  top
+C4        100nF              C_0402_1005Metric                               47.4300  -137.3500    0.0000  top
+C5        100nF              C_0402_1005Metric                               48.3400  -126.2300    0.0000  top
+C6        100nF              C_0402_1005Metric                               36.9000  -124.4200  180.0000  top
+C7        1uF                C_0402_1005Metric                               32.6100  -133.3900  270.0000  top
+C8        100nF              C_0402_1005Metric                               33.6500  -133.4100  270.0000  top
+C9        100nF              C_0402_1005Metric                               59.9800  -117.6500  270.0000  top
+C10       10uF               C_1206_3216Metric                               33.1300  -114.1500  270.0000  top
+C11       10uF               C_1206_3216Metric                               29.7900  -114.8800    0.0000  top
+C12       2.2uF              C_0603_1608Metric                               46.1300  -138.7500    0.0000  top
+C13       2.2uF              C_0603_1608Metric                               50.3800  -127.6500    0.0000  top
+C14       100nF              C_0402_1005Metric                               51.0300  -116.4500   90.0000  top
+C15       100nF              C_0402_1005Metric                               57.5300  -118.0500   90.0000  top
+C16       100nF              C_0402_1005Metric                               50.2300  -120.4500   90.0000  top
+C17       100nF              C_0402_1005Metric                               38.4300  -145.4500  270.0000  top
+C18       100nF              C_0402_1005Metric                               33.4300  -137.8500  180.0000  top
+C19       18pF               C_0402_1005Metric                               33.1800  -126.4800    0.0000  top
+C20       18pF               C_0402_1005Metric                               33.1800  -131.8800  180.0000  top
+C21       100nF              C_0402_1005Metric                               45.7300  -117.3500  180.0000  top
+C22       100nF              C_0402_1005Metric                               48.0250  -115.5950    0.0000  top
+C23       100nF              C_0402_1005Metric                               41.6900  -120.1500    0.0000  top
+C24       100nF              C_0402_1005Metric                               33.4300  -125.0500    0.0000  top
+C25       100nF              C_0402_1005Metric                               31.1800  -120.3000  180.0000  top
+C26       100nF              C_0402_1005Metric                               29.6600  -136.2400    0.0000  top
+C27       10uF               C_0603_1608Metric                               32.4800  -117.3500  180.0000  top
+C28       100nF              C_0402_1005Metric                               34.9300  -117.6500    0.0000  top
+C29       100nF              C_0402_1005Metric                               32.9800  -119.0500  270.0000  top
+C30       220nF              C_0402_1005Metric                               36.5300  -119.4000   90.0000  top
+D1        YE                 Fuse_0402_1005Metric                            35.0300  -114.4500   90.0000  top
+D2        GR                 LED_0603_1608Metric                             51.2300  -137.6400  180.0000  top
+D3        RE                 LED_0603_1608Metric                             51.2300  -135.9400  180.0000  top
+D4        BL                 LED_0603_1608Metric                             51.2300  -134.2400  180.0000  top
+D5        BL                 LED_0603_1608Metric                             51.2200  -132.4300  180.0000  top
+D6        D_Schottky         Fuse_0805_2012Metric                            26.6300  -106.5500   90.0000  top
+F1        Fuse_Small         Fuse_0603_1608Metric                            63.0800  -117.7000  270.0000  top
+FB1       Ferrite_Bead       L_0402_1005Metric                               31.5700  -133.4100  270.0000  top
+IC1       LD39200PU33R       DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm                29.7900  -111.7800  180.0000  top
+IC2       24CW1280T-I_OT     SOT-23-5                                        47.7250  -121.4350    0.0000  top
+IC3       W25N01GVZEIG_TR    W25N01GVZEIG_TR                                 47.8600  -146.1700  180.0000  top
+IC4       74LVC1G04GX4Z      74LVC1G04                                       29.0200  -137.6200   90.0000  top
+IC5       IIS2MDCTR          LGA-12_2x2mm_P0.5mm                             34.7700  -119.4100   90.0000  top
+J2        Ferrite_Bead       L_0603_1608Metric                               61.4300  -117.7000  270.0000  top
+JP1       1k                 R_0603_1608Metric                               54.4300  -134.2400  180.0000  top
+R1        R1                 R_0603_1608Metric                               36.5300  -114.9500   90.0000  top
+R2        10k                R_0402_1005Metric                               61.2200  -146.0600    0.0000  top
+R3        22                 R_0402_1005Metric                               53.6800  -120.4500   90.0000  top
+R4        22                 R_0402_1005Metric                               54.9800  -120.4500   90.0000  top
+R5        2.2k               R_0603_1608Metric                               54.4300  -137.6400  180.0000  top
+R6        1k                 R_0603_1608Metric                               54.4300  -135.9400  180.0000  top
+R8        1k                 R_0603_1608Metric                               54.4200  -132.4300  180.0000  top
+R9        10k                R_0402_1005Metric                               53.2300  -146.1500    0.0000  top
+R11       10k                R_0402_1005Metric                               48.9300  -141.9500   90.0000  top
+R12       10k                R_0402_1005Metric                               38.4300  -143.3500  270.0000  top
+R13       2.2k               R_0402_1005Metric                               51.9500  -130.6300   90.0000  top
+R14       2.2k               R_0402_1005Metric                               49.9300  -130.1000  270.0000  top
+R15       2.2k               R_0402_1005Metric                               38.0300  -123.0500   90.0000  top
+R16       2.2k               R_0402_1005Metric                               40.2800  -123.6500    0.0000  top
+REF**     FabDrawing-4Layer  FabDrawing-4Layer-Metric                       153.5100   -93.9800    0.0000  top
+S1        TDD01H0SB1R        SW_SPDT_PCM12                                   60.6250  -149.1050    0.0000  top
+S2        TDD01H0SB1R        SW_SPDT_PCM12                                   51.6000  -149.1500    0.0000  top
+S3        SW_Push            SW_SPST_CK_RS282G05A3                           33.5300  -143.4500  270.0000  top
+U1        USBLC6-2SC6        SOT-23-6                                        60.0500  -112.5050  270.0000  top
+U2        CH330N             SOIC-8_3.9x4.9mm_P1.27mm                        54.3250  -115.5250  270.0000  top
+U3        STM32F405RGTx      LQFP-64_10x10mm_P0.5mm                          42.0100  -130.9600    0.0000  top
+U4        BMP388             ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y    48.1500  -117.5950    0.0000  top
+U5        PCA9685BS          QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm          41.0400  -115.9500  180.0000  top
+U6        BMI088             BMI008                                          30.1800  -122.6800   90.0000  top
+USB1      USB_B_Micro        USB_Micro-B_Wuerth_629105150521                 59.6300  -106.4500  180.0000  top
+Y1        25MHz              Crystal_SMD_3225-4Pin_3.2x2.5mm                 33.1800  -129.1800  270.0000  top
+## End

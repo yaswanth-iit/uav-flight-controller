@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name HadesMicro-rescue)(type Legacy)(uri "E:/Embedded Hardware Engineer/2. Kicad/GitHub/D0NE/Phil's lab/HadesFCS-master/Hardware/HadesMicro/HadesMicro-rescue.lib")(options "")(descr ""))
+  (lib (name royal_fc-rescue)(type Legacy)(uri ${KIPRJMOD}/royal_fc-rescue.lib)(options "")(descr ""))
+)

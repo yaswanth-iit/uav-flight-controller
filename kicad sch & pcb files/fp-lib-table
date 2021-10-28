@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Royal_ICs)(type KiCad)(uri ${KIPRJMOD}/Libraries/Royal_ICs.pretty)(options "")(descr ""))
+  (lib (name IIT_logo_for_kiCAD)(type KiCad)(uri "E:/Embedded Hardware Engineer/2. Kicad/Zmisc/IIT_logo_for_kiCAD.pretty")(options "")(descr ""))
+  (lib (name FabDrawingTemplates)(type KiCad)(uri "E:/Embedded Hardware Engineer/2. Kicad/Zmisc/FabDrawingTemplates.pretty")(options "")(descr ""))
+)
