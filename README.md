@@ -4,6 +4,9 @@ This repository consists of schematics, PCB layout, output files of UAV flight c
 [Schematics](https://raw.githubusercontent.com/yaswanth-iit/uav-flight-controller/master/quick%20view/schematics.pdf)
 
 [PCB Layout](https://raw.githubusercontent.com/yaswanth-iit/uav-flight-controller/master/quick%20view/full%20pcb%20layout.pdf)
+
+Used ICs:
+
 * Microcontroller:  STM32F405RGT6, 25 MHz Clock
 * EEPROM: 24CW1280T-I_OT
 * FLASH Memory: W25N01GVZEIG_TR
