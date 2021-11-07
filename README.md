@@ -1,5 +1,5 @@
 ## UAV Flight Controller
-This repository consists of schematics, PCB layout, output files of UAV flight controller designed using kiCAD
+This repository consists of schematics, PCB layout, output files of UAV flight controller (Designed using kiCAD) [4-Layer]
 
 [Schematics](https://raw.githubusercontent.com/yaswanth-iit/uav-flight-controller/master/quick%20view/schematics.pdf)
 
